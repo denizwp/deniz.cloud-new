@@ -3,7 +3,7 @@
 
 	import Discord from '$lib/components/icons/Discord.svelte';
 
-	const discordId = '299707523370319883';
+	const discordId = '317004664002576386';
 	const lanyard = useLanyard({
 		method: 'rest',
 		id: discordId
